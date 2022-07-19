@@ -9,5 +9,6 @@ b1
 在github端  
 合并了b2分支，增加了Mapper类   
 vsCode中使用git   
-vsCode中再次使用git  
+vsCode中再次使用git   
+修改了hosts文件，测试同步速度  
 
